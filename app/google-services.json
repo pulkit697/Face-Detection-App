@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690138434681",
+    "firebase_url": "https://face-detection-4c6a2.firebaseio.com",
+    "project_id": "face-detection-4c6a2",
+    "storage_bucket": "face-detection-4c6a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690138434681:android:d7f014e4257c249ad3d8a8",
+        "android_client_info": {
+          "package_name": "com.example.pulkit.detectface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690138434681-rqcros49ap4u5g3p3f73lujrvoa46q1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_XJwySOzqrFoHUS7JcYsPCcYt8hvBc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690138434681-rqcros49ap4u5g3p3f73lujrvoa46q1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
